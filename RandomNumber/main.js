@@ -4,7 +4,7 @@ class RNumber {
       id: 'otherstuff',
       name: 'Random Number',
       
-      menuIconURI: 'https://abdulhadi5692hdi2.github.io/custom-extensions/RandomNumber/icon.png',
+      menuIconURI: 'https://abdulhadi5692hdi2.github.io/custom-extensions/RandomNumber/pixil-frame-0.png',
       docsUri: 'https://abdulhadi5692hdi2.github.io',
 
       blocks: [
