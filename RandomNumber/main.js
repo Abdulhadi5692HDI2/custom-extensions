@@ -23,3 +23,5 @@ class RNumber {
 }
 
 Scratch.extensions.register(new RNumber());
+console.log("[Random Number] Up and running!");
+console.log("[Random Number] opcode: 'randoma' initalized");
