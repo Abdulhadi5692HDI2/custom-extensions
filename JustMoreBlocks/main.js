@@ -1,3 +1,4 @@
+// @unsandboxed required
 class JBM {
   getInfo() {
     return {
